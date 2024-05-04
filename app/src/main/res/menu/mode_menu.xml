@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="Memo"
+        android:id="@+id/menu_memo"
+        />
+    <item
+        android:title="Conversion"
+        android:id="@+id/menu_conv"
+        />
+</menu>
